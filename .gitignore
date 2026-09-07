@@ -1,0 +1,61 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/
+*.egg-info/
+.dart_tool/
+.flutter-plugins-dependencies
+.packages
+build/
+.idea/
+*.iml
+coverage/
+
+# Supabase CLI scratch: holds the linked project ref and a pooler connection
+# string. Nothing secret today, but it is machine state, not source.
+supabase/.temp/
+
+# The deploy script builds and force-pushes this to gh-pages; it is output.
+/build/
+
+# ---------------------------------------------------------------------------
+# Private while this repo is public.
+#
+# It is public only because GitHub Pages requires it. Everything below either
+# describes the product, targets a commercial site, or maps the live backend's
+# attack surface, so none of it goes out until the repo itself is private.
+# All of it stays on disk — it is excluded from git, not deleted.
+# ---------------------------------------------------------------------------
+
+# The product brief.
+DESCRIPTION.md
+
+# Internal notes: the distribution runbook and the commercial-endpoint probes
+# behind the "no paid stats feed" decision.
+docs/
+
+# Schema and auth configuration. RLS is the entire security boundary, and
+# config.toml records which auth protections are currently off.
+supabase/
+
+# Scrapers pointed at arsiv.mackolik.com, transfermarkt.com.tr and tff.org.
+tff_scraper/
+scrape.py
+enrich.py
+normalize.py
+requirements.txt
+tools/cache_assets.py
+tools/cache_portraits.py
+tools/generate_brand.py
+
+# Badges, stadium photos and portraits fetched from those same sources.
+# assets/fonts/ stays: those are OFL-licensed Google Fonts.
+assets/clubs/
+assets/stadiums/
+assets/portraits/
+
+# Holds the Supabase URL and publishable key. The key is public by design and
+# already ships inside the built bundle, but a key sitting in a public repo is
+# harvested by automated scanners in a way a 3.5 MB minified bundle is not.
+lib/core/config.dart

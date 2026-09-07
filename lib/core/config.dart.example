@@ -1,0 +1,27 @@
+/// Copy to `config.dart` and fill in. The real file is gitignored while this
+/// repository is public: the publishable key is public by construction, but a
+/// key sitting in a public repo gets harvested by automated scanners.
+///
+/// Both values can also be supplied at build time, which is what CI should do:
+///   flutter build web --dart-define=SUPABASE_URL=... --dart-define=SUPABASE_PUBLISHABLE_KEY=...
+///
+/// The secret key is the one that must never appear in this app. Every table is
+/// behind row level security, so the publishable key can only do what an
+/// unauthenticated caller is allowed to do.
+abstract final class Backend {
+  static const url = String.fromEnvironment(
+    'SUPABASE_URL',
+    defaultValue: '',
+  );
+  static const publishableKey = String.fromEnvironment(
+    'SUPABASE_PUBLISHABLE_KEY',
+    defaultValue: '',
+  );
+
+  /// Empty configuration is a supported mode, not a failure: the app runs as
+  /// the local MVP with bundled football and ratings on the device.
+  static bool get configured => url.isNotEmpty && publishableKey.isNotEmpty;
+
+  /// Stamped in by the deploy script.
+  static const buildStamp = String.fromEnvironment('BUILD_STAMP');
+}

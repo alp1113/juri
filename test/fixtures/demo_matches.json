@@ -1,0 +1,3581 @@
+{
+  "users": [
+    {
+      "id": "seed-01",
+      "displayName": "Ada Kaya",
+      "clubId": "3604"
+    },
+    {
+      "id": "seed-02",
+      "displayName": "Deniz Arslan",
+      "clubId": "3604"
+    },
+    {
+      "id": "seed-03",
+      "displayName": "Ege Demir",
+      "clubId": "3604"
+    },
+    {
+      "id": "seed-04",
+      "displayName": "Lara Çetin",
+      "clubId": "3604"
+    },
+    {
+      "id": "seed-05",
+      "displayName": "Kerem Aydın",
+      "clubId": "3604"
+    },
+    {
+      "id": "seed-06",
+      "displayName": "Selin Koç",
+      "clubId": "3604"
+    },
+    {
+      "id": "seed-07",
+      "displayName": "Mert Uçar",
+      "clubId": "3604"
+    },
+    {
+      "id": "seed-08",
+      "displayName": "Yağmur Eren",
+      "clubId": "3604"
+    },
+    {
+      "id": "seed-09",
+      "displayName": "Baran Şen",
+      "clubId": "3592"
+    },
+    {
+      "id": "seed-10",
+      "displayName": "İpek Yurt",
+      "clubId": "3592"
+    },
+    {
+      "id": "seed-11",
+      "displayName": "Onur Kılıç",
+      "clubId": "3592"
+    },
+    {
+      "id": "seed-12",
+      "displayName": "Cemre Aksoy",
+      "clubId": "3592"
+    },
+    {
+      "id": "seed-13",
+      "displayName": "Tuna Erdem",
+      "clubId": "3592"
+    },
+    {
+      "id": "seed-14",
+      "displayName": "Nilay Öz",
+      "clubId": "3592"
+    },
+    {
+      "id": "seed-15",
+      "displayName": "Berkay Can",
+      "clubId": "3590"
+    },
+    {
+      "id": "seed-16",
+      "displayName": "Sude Kara",
+      "clubId": "3590"
+    },
+    {
+      "id": "seed-17",
+      "displayName": "Emre Taş",
+      "clubId": "3590"
+    },
+    {
+      "id": "seed-18",
+      "displayName": "Cansu Gül",
+      "clubId": "3590"
+    },
+    {
+      "id": "seed-19",
+      "displayName": "Rüzgar Polat",
+      "clubId": "3596"
+    },
+    {
+      "id": "seed-20",
+      "displayName": "Melis Kurt",
+      "clubId": "3596"
+    },
+    {
+      "id": "seed-21",
+      "displayName": "Hakan Nur",
+      "clubId": "3596"
+    },
+    {
+      "id": "seed-22",
+      "displayName": "Ela Sönmez",
+      "clubId": "3665"
+    },
+    {
+      "id": "seed-23",
+      "displayName": "Yiğit Baş",
+      "clubId": "3600"
+    },
+    {
+      "id": "seed-24",
+      "displayName": "Duru Akın",
+      "clubId": "51"
+    },
+    {
+      "id": "seed-25",
+      "displayName": "Alp Tekin",
+      "clubId": "3597"
+    }
+  ],
+  "matches": [
+    {
+      "id": "demo-ts-fb",
+      "competition": "Süper Lig",
+      "season": "2026–2027",
+      "homeClubId": "3596",
+      "awayClubId": "3592",
+      "kickoff": "2026-08-10T18:00:00Z",
+      "status": "finished",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isDemo": true,
+      "events": [
+        {
+          "minute": 34,
+          "type": "goal",
+          "playerId": "1792008",
+          "clubId": "3596"
+        },
+        {
+          "minute": 71,
+          "type": "goal",
+          "playerId": "2823881",
+          "clubId": "3592"
+        }
+      ]
+    },
+    {
+      "id": "demo-ts-bjk",
+      "competition": "Süper Lig",
+      "season": "2026–2027",
+      "homeClubId": "3596",
+      "awayClubId": "3590",
+      "kickoff": "2026-08-17T18:00:00Z",
+      "status": "finished",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isDemo": true,
+      "events": [
+        {
+          "minute": 19,
+          "type": "goal",
+          "playerId": "1792008",
+          "clubId": "3596"
+        },
+        {
+          "minute": 77,
+          "type": "goal",
+          "playerId": "1792008",
+          "clubId": "3596"
+        }
+      ]
+    },
+    {
+      "id": "demo-gs-fb",
+      "competition": "Süper Lig",
+      "season": "2026–2027",
+      "homeClubId": "3604",
+      "awayClubId": "3592",
+      "kickoff": "2026-08-24T19:00:00Z",
+      "status": "finished",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "isDemo": true,
+      "events": [
+        {
+          "minute": 12,
+          "type": "goal",
+          "playerId": "2690888",
+          "clubId": "3604"
+        },
+        {
+          "minute": 41,
+          "type": "goal",
+          "playerId": "1462850",
+          "clubId": "3604"
+        },
+        {
+          "minute": 63,
+          "type": "goal",
+          "playerId": "2823881",
+          "clubId": "3592"
+        },
+        {
+          "minute": 88,
+          "type": "goal",
+          "playerId": "2690888",
+          "clubId": "3604"
+        }
+      ]
+    },
+    {
+      "id": "demo-gs-bjk",
+      "competition": "Süper Lig",
+      "season": "2026–2027",
+      "homeClubId": "3604",
+      "awayClubId": "3590",
+      "kickoff": "2026-08-31T19:00:00Z",
+      "status": "finished",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "isDemo": true,
+      "events": [
+        {
+          "minute": 8,
+          "type": "goal",
+          "playerId": "2690888",
+          "clubId": "3604"
+        },
+        {
+          "minute": 29,
+          "type": "goal",
+          "playerId": "2217597",
+          "clubId": "3590"
+        },
+        {
+          "minute": 54,
+          "type": "goal",
+          "playerId": "2217597",
+          "clubId": "3590"
+        },
+        {
+          "minute": 81,
+          "type": "goal",
+          "playerId": "2685640",
+          "clubId": "3604"
+        }
+      ]
+    },
+    {
+      "id": "demo-gs-ts",
+      "competition": "Süper Lig",
+      "season": "2026–2027",
+      "homeClubId": "3604",
+      "awayClubId": "3596",
+      "kickoff": "2026-09-14T17:00:00Z",
+      "status": "finished",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "isDemo": true,
+      "events": [
+        {
+          "minute": 67,
+          "type": "goal",
+          "playerId": "2690888",
+          "clubId": "3604"
+        }
+      ]
+    },
+    {
+      "id": "demo-gs-bsh",
+      "competition": "Süper Lig",
+      "season": "2026–2027",
+      "homeClubId": "3604",
+      "awayClubId": "3665",
+      "kickoff": "2026-09-21T17:00:00Z",
+      "status": "finished",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isDemo": true,
+      "events": [
+        {
+          "minute": 22,
+          "type": "goal",
+          "playerId": "2690888",
+          "clubId": "3604"
+        },
+        {
+          "minute": 86,
+          "type": "goal",
+          "playerId": "2174480",
+          "clubId": "3604"
+        }
+      ]
+    },
+    {
+      "id": "demo-gs-kon",
+      "competition": "Süper Lig",
+      "season": "2026–2027",
+      "homeClubId": "3604",
+      "awayClubId": "3600",
+      "kickoff": "2026-09-28T17:00:00Z",
+      "status": "finished",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isDemo": true,
+      "events": [
+        {
+          "minute": 39,
+          "type": "goal",
+          "playerId": "2935561",
+          "clubId": "3604"
+        }
+      ]
+    },
+    {
+      "id": "demo-gs-ala",
+      "competition": "Süper Lig",
+      "season": "2026–2027",
+      "homeClubId": "3604",
+      "awayClubId": "51",
+      "kickoff": "2026-10-05T17:00:00Z",
+      "status": "upcoming",
+      "homeGoals": null,
+      "awayGoals": null,
+      "isDemo": true,
+      "events": []
+    },
+    {
+      "id": "demo-gs-sam",
+      "competition": "Süper Lig",
+      "season": "2026–2027",
+      "homeClubId": "3604",
+      "awayClubId": "3597",
+      "kickoff": "2026-10-12T17:00:00Z",
+      "status": "postponed",
+      "homeGoals": null,
+      "awayGoals": null,
+      "isDemo": true,
+      "events": []
+    }
+  ],
+  "appearances": [
+    {
+      "id": "a-demo-ts-fb-1136213",
+      "matchId": "demo-ts-fb",
+      "playerId": "1136213",
+      "clubId": "3596",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "goalkeeper.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-ts-fb-1792008",
+      "matchId": "demo-ts-fb",
+      "playerId": "1792008",
+      "clubId": "3596",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-ts-fb-2823881",
+      "matchId": "demo-ts-fb",
+      "playerId": "2823881",
+      "clubId": "3592",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-ts-bjk-1136213",
+      "matchId": "demo-ts-bjk",
+      "playerId": "1136213",
+      "clubId": "3596",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "goalkeeper.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-ts-bjk-1792008",
+      "matchId": "demo-ts-bjk",
+      "playerId": "1792008",
+      "clubId": "3596",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-ts-bjk-2217597",
+      "matchId": "demo-ts-bjk",
+      "playerId": "2217597",
+      "clubId": "3590",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-fb-1136213",
+      "matchId": "demo-gs-fb",
+      "playerId": "1136213",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "goalkeeper.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-fb-2690888",
+      "matchId": "demo-gs-fb",
+      "playerId": "2690888",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-fb-2698504",
+      "matchId": "demo-gs-fb",
+      "playerId": "2698504",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": "Hücum bek"
+    },
+    {
+      "id": "a-demo-gs-fb-2419707",
+      "matchId": "demo-gs-fb",
+      "playerId": "2419707",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": "Savunma orta sahası"
+    },
+    {
+      "id": "a-demo-gs-fb-1048397",
+      "matchId": "demo-gs-fb",
+      "playerId": "1048397",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-fb-1462850",
+      "matchId": "demo-gs-fb",
+      "playerId": "1462850",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-fb-2685640",
+      "matchId": "demo-gs-fb",
+      "playerId": "2685640",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-fb-2823881",
+      "matchId": "demo-gs-fb",
+      "playerId": "2823881",
+      "clubId": "3592",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-fb-2935081",
+      "matchId": "demo-gs-fb",
+      "playerId": "2935081",
+      "clubId": "3592",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-fb-2036948",
+      "matchId": "demo-gs-fb",
+      "playerId": "2036948",
+      "clubId": "3592",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "goalkeeper.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-bjk-1136213",
+      "matchId": "demo-gs-bjk",
+      "playerId": "1136213",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "goalkeeper.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-bjk-2690888",
+      "matchId": "demo-gs-bjk",
+      "playerId": "2690888",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-bjk-2685640",
+      "matchId": "demo-gs-bjk",
+      "playerId": "2685640",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-bjk-2217597",
+      "matchId": "demo-gs-bjk",
+      "playerId": "2217597",
+      "clubId": "3590",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-ts-1136213",
+      "matchId": "demo-gs-ts",
+      "playerId": "1136213",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "goalkeeper.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-ts-2690888",
+      "matchId": "demo-gs-ts",
+      "playerId": "2690888",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-bsh-2690888",
+      "matchId": "demo-gs-bsh",
+      "playerId": "2690888",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-bsh-2174480",
+      "matchId": "demo-gs-bsh",
+      "playerId": "2174480",
+      "clubId": "3604",
+      "role": "substitute",
+      "minutes": 8,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-bsh-2023994",
+      "matchId": "demo-gs-bsh",
+      "playerId": "2023994",
+      "clubId": "3604",
+      "role": "unusedSubstitute",
+      "minutes": 0,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-kon-2690888",
+      "matchId": "demo-gs-kon",
+      "playerId": "2690888",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-kon-2935561",
+      "matchId": "demo-gs-kon",
+      "playerId": "2935561",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-kon-1944296",
+      "matchId": "demo-gs-kon",
+      "playerId": "1944296",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-kon-2117517",
+      "matchId": "demo-gs-kon",
+      "playerId": "2117517",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": null,
+      "minutesUnresolved": true,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-ala-2690888",
+      "matchId": "demo-gs-ala",
+      "playerId": "2690888",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    },
+    {
+      "id": "a-demo-gs-sam-2690888",
+      "matchId": "demo-gs-sam",
+      "playerId": "2690888",
+      "clubId": "3604",
+      "role": "starter",
+      "minutes": 90,
+      "minutesUnresolved": false,
+      "template": "outfield.v1",
+      "verified": true,
+      "positionNote": null
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r-gs-fb-osimhen-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": "İlk dokunuşları ve koşu zamanlaması maçı taşıdı.",
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:30:00Z",
+      "editedAt": "2026-08-26T10:15:00Z",
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "hucum_katkisi": 8.5,
+        "savunma_katkisi": 9.0,
+        "topsuz_oyun": 9.5,
+        "ikili_mucadele": 7.5,
+        "efor": 8.5,
+        "sogukkanlilik": 9.0,
+        "takim_oyunu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 9.0,
+      "attributes": {
+        "teknik": 8.0,
+        "hucum_katkisi": 9.0,
+        "savunma_katkisi": 9.5,
+        "topsuz_oyun": 10.0,
+        "ikili_mucadele": 8.0,
+        "karar_verme": 8.5,
+        "efor": 9.0,
+        "takim_oyunu": 10.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "hucum_katkisi": 8.5,
+        "savunma_katkisi": 9.0,
+        "topsuz_oyun": 9.5,
+        "ikili_mucadele": 7.5,
+        "efor": 8.5,
+        "sogukkanlilik": 9.0,
+        "takim_oyunu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-05",
+      "userId": "seed-05",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 9.5,
+      "attributes": {
+        "teknik": 8.5,
+        "pas": 9.0,
+        "hucum_katkisi": 9.5,
+        "topsuz_oyun": 10.0,
+        "ikili_mucadele": 8.5,
+        "karar_verme": 9.0,
+        "efor": 9.5,
+        "sogukkanlilik": 10.0,
+        "takim_oyunu": 10.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-06",
+      "userId": "seed-06",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-07",
+      "userId": "seed-07",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 9.0,
+      "attributes": {
+        "teknik": 8.0,
+        "hucum_katkisi": 9.0,
+        "savunma_katkisi": 9.5,
+        "topsuz_oyun": 10.0,
+        "ikili_mucadele": 8.0,
+        "karar_verme": 8.5,
+        "efor": 9.0,
+        "takim_oyunu": 10.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-08",
+      "userId": "seed-08",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "hucum_katkisi": 8.5,
+        "savunma_katkisi": 9.0,
+        "topsuz_oyun": 9.5,
+        "ikili_mucadele": 7.5,
+        "efor": 8.5,
+        "sogukkanlilik": 9.0,
+        "takim_oyunu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-09",
+      "userId": "seed-09",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 5.0,
+      "attributes": {
+        "teknik": 4.0,
+        "pas": 4.5,
+        "hucum_katkisi": 5.0,
+        "savunma_katkisi": 5.5,
+        "topsuz_oyun": 6.0,
+        "ikili_mucadele": 4.0,
+        "sogukkanlilik": 5.5,
+        "takim_oyunu": 6.0
+      },
+      "juriNotu": "Gol attı ama genel katkı abartıldığı kadar yüksek değildi.",
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-10",
+      "userId": "seed-10",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 4.5,
+      "attributes": {
+        "teknik": 3.5,
+        "pas": 4.0,
+        "hucum_katkisi": 4.5,
+        "savunma_katkisi": 5.0,
+        "ikili_mucadele": 3.5,
+        "karar_verme": 4.0,
+        "efor": 4.5,
+        "sogukkanlilik": 5.0,
+        "takim_oyunu": 5.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-11",
+      "userId": "seed-11",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-12",
+      "userId": "seed-12",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 5.5,
+      "attributes": {
+        "teknik": 4.5,
+        "hucum_katkisi": 5.5,
+        "savunma_katkisi": 6.0,
+        "topsuz_oyun": 6.5,
+        "ikili_mucadele": 4.5,
+        "karar_verme": 5.0,
+        "takim_oyunu": 6.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-13",
+      "userId": "seed-13",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 4.0,
+      "attributes": {
+        "teknik": 3.0,
+        "pas": 3.5,
+        "savunma_katkisi": 4.5,
+        "topsuz_oyun": 5.0,
+        "ikili_mucadele": 3.0,
+        "karar_verme": 3.5,
+        "efor": 4.0,
+        "sogukkanlilik": 4.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-14",
+      "userId": "seed-14",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-15",
+      "userId": "seed-15",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 5.0,
+      "attributes": {
+        "teknik": 4.0,
+        "pas": 4.5,
+        "hucum_katkisi": 5.0,
+        "savunma_katkisi": 5.5,
+        "topsuz_oyun": 6.0,
+        "ikili_mucadele": 4.0,
+        "sogukkanlilik": 5.5,
+        "takim_oyunu": 6.0
+      },
+      "juriNotu": "Eforu yüksekti; kararları aceleydi.",
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-16",
+      "userId": "seed-16",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 5.5,
+      "attributes": {
+        "teknik": 4.5,
+        "hucum_katkisi": 5.5,
+        "savunma_katkisi": 6.0,
+        "topsuz_oyun": 6.5,
+        "ikili_mucadele": 4.5,
+        "karar_verme": 5.0,
+        "efor": 5.5,
+        "takim_oyunu": 6.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-17",
+      "userId": "seed-17",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-18",
+      "userId": "seed-18",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 4.5,
+      "attributes": {
+        "teknik": 3.5,
+        "pas": 4.0,
+        "hucum_katkisi": 4.5,
+        "savunma_katkisi": 5.0,
+        "ikili_mucadele": 3.5,
+        "karar_verme": 4.0,
+        "sogukkanlilik": 5.0,
+        "takim_oyunu": 5.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-19",
+      "userId": "seed-19",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 5.0,
+      "attributes": {
+        "teknik": 4.0,
+        "pas": 4.5,
+        "hucum_katkisi": 5.0,
+        "savunma_katkisi": 5.5,
+        "topsuz_oyun": 6.0,
+        "ikili_mucadele": 4.0,
+        "efor": 5.0,
+        "sogukkanlilik": 5.5,
+        "takim_oyunu": 6.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-20",
+      "userId": "seed-20",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-21",
+      "userId": "seed-21",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 5.5,
+      "attributes": {
+        "teknik": 4.5,
+        "hucum_katkisi": 5.5,
+        "savunma_katkisi": 6.0,
+        "topsuz_oyun": 6.5,
+        "ikili_mucadele": 4.5,
+        "karar_verme": 5.0,
+        "takim_oyunu": 6.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-osimhen-seed-22",
+      "userId": "seed-22",
+      "appearanceId": "a-demo-gs-fb-2690888",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3665",
+      "createdAt": "2026-08-24T22:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-osimhen-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-bjk-2690888",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-31T21:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-osimhen-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-bjk-2690888",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-31T21:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-osimhen-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-bjk-2690888",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "hucum_katkisi": 8.5,
+        "savunma_katkisi": 9.0,
+        "topsuz_oyun": 9.5,
+        "ikili_mucadele": 7.5,
+        "efor": 8.5,
+        "sogukkanlilik": 9.0,
+        "takim_oyunu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-31T21:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-osimhen-seed-09",
+      "userId": "seed-09",
+      "appearanceId": "a-demo-gs-bjk-2690888",
+      "genelPuan": 5.0,
+      "attributes": {
+        "teknik": 4.0,
+        "pas": 4.5,
+        "hucum_katkisi": 5.0,
+        "savunma_katkisi": 5.5,
+        "topsuz_oyun": 6.0,
+        "ikili_mucadele": 4.0,
+        "efor": 5.0,
+        "sogukkanlilik": 5.5,
+        "takim_oyunu": 6.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-31T21:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-osimhen-seed-15",
+      "userId": "seed-15",
+      "appearanceId": "a-demo-gs-bjk-2690888",
+      "genelPuan": 5.5,
+      "attributes": {
+        "teknik": 4.5,
+        "hucum_katkisi": 5.5,
+        "savunma_katkisi": 6.0,
+        "topsuz_oyun": 6.5,
+        "ikili_mucadele": 4.5,
+        "karar_verme": 5.0,
+        "efor": 5.5,
+        "takim_oyunu": 6.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-31T21:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-osimhen-seed-16",
+      "userId": "seed-16",
+      "appearanceId": "a-demo-gs-bjk-2690888",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-31T21:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-osimhen-seed-19",
+      "userId": "seed-19",
+      "appearanceId": "a-demo-gs-bjk-2690888",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-31T21:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-osimhen-seed-22",
+      "userId": "seed-22",
+      "appearanceId": "a-demo-gs-bjk-2690888",
+      "genelPuan": 5.5,
+      "attributes": {
+        "teknik": 4.5,
+        "hucum_katkisi": 5.5,
+        "savunma_katkisi": 6.0,
+        "topsuz_oyun": 6.5,
+        "ikili_mucadele": 4.5,
+        "karar_verme": 5.0,
+        "efor": 5.5,
+        "takim_oyunu": 6.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3665",
+      "createdAt": "2026-08-31T21:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-osimhen-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-ts-2690888",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-osimhen-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-ts-2690888",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-osimhen-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-ts-2690888",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-osimhen-seed-05",
+      "userId": "seed-05",
+      "appearanceId": "a-demo-gs-ts-2690888",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "hucum_katkisi": 8.5,
+        "savunma_katkisi": 9.0,
+        "topsuz_oyun": 9.5,
+        "ikili_mucadele": 7.5,
+        "efor": 8.5,
+        "sogukkanlilik": 9.0,
+        "takim_oyunu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-osimhen-seed-06",
+      "userId": "seed-06",
+      "appearanceId": "a-demo-gs-ts-2690888",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-osimhen-seed-19",
+      "userId": "seed-19",
+      "appearanceId": "a-demo-gs-ts-2690888",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-09-14T19:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-osimhen-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-bsh-2690888",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-osimhen-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-bsh-2690888",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-osimhen-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-bsh-2690888",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-osimhen-seed-07",
+      "userId": "seed-07",
+      "appearanceId": "a-demo-gs-bsh-2690888",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-osimhen-seed-08",
+      "userId": "seed-08",
+      "appearanceId": "a-demo-gs-bsh-2690888",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "hucum_katkisi": 8.5,
+        "savunma_katkisi": 9.0,
+        "topsuz_oyun": 9.5,
+        "ikili_mucadele": 7.5,
+        "efor": 8.5,
+        "sogukkanlilik": 9.0,
+        "takim_oyunu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-osimhen-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-kon-2690888",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-osimhen-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-kon-2690888",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-osimhen-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-kon-2690888",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-osimhen-seed-05",
+      "userId": "seed-05",
+      "appearanceId": "a-demo-gs-kon-2690888",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-osimhen-seed-07",
+      "userId": "seed-07",
+      "appearanceId": "a-demo-gs-kon-2690888",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-osimhen-seed-08",
+      "userId": "seed-08",
+      "appearanceId": "a-demo-gs-kon-2690888",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-osimhen-seed-23",
+      "userId": "seed-23",
+      "appearanceId": "a-demo-gs-kon-2690888",
+      "genelPuan": 5.5,
+      "attributes": {
+        "teknik": 4.5,
+        "hucum_katkisi": 5.5,
+        "savunma_katkisi": 6.0,
+        "topsuz_oyun": 6.5,
+        "ikili_mucadele": 4.5,
+        "karar_verme": 5.0,
+        "efor": 5.5,
+        "takim_oyunu": 6.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3600",
+      "createdAt": "2026-09-28T19:00:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-fb-ugurcan-seed-19",
+      "userId": "seed-19",
+      "appearanceId": "a-demo-ts-fb-1136213",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 6.5,
+        "sut_kurtarma": 7.0,
+        "hava_toplari": 7.5
+      },
+      "juriNotu": "Karşı karşıya gelmedi; çıkışları sakin, dağıtımı temizdi.",
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-10T20:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-fb-ugurcan-seed-20",
+      "userId": "seed-20",
+      "appearanceId": "a-demo-ts-fb-1136213",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "karar_verme": 8.0,
+        "efor": 8.5,
+        "takim_oyunu": 7.0,
+        "sut_kurtarma": 7.5,
+        "hava_toplari": 8.0,
+        "alan_kontrolu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-10T20:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-fb-ugurcan-seed-21",
+      "userId": "seed-21",
+      "appearanceId": "a-demo-ts-fb-1136213",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0,
+        "takim_oyunu": 6.0,
+        "sut_kurtarma": 6.5,
+        "alan_kontrolu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-10T20:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-fb-ugurcan-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-ts-fb-1136213",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 6.5,
+        "sut_kurtarma": 7.0,
+        "hava_toplari": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-10T20:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-fb-ugurcan-seed-09",
+      "userId": "seed-09",
+      "appearanceId": "a-demo-ts-fb-1136213",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "karar_verme": 6.5,
+        "efor": 7.0,
+        "sogukkanlilik": 7.5,
+        "sut_kurtarma": 6.0,
+        "hava_toplari": 6.5,
+        "alan_kontrolu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-10T20:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-fb-ugurcan-seed-22",
+      "userId": "seed-22",
+      "appearanceId": "a-demo-ts-fb-1136213",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0,
+        "takim_oyunu": 6.0,
+        "sut_kurtarma": 6.5,
+        "alan_kontrolu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3665",
+      "createdAt": "2026-08-10T20:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-bjk-ugurcan-seed-19",
+      "userId": "seed-19",
+      "appearanceId": "a-demo-ts-bjk-1136213",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "karar_verme": 8.0,
+        "efor": 8.5,
+        "takim_oyunu": 7.0,
+        "sut_kurtarma": 7.5,
+        "hava_toplari": 8.0,
+        "bire_bir": 8.5,
+        "alan_kontrolu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-17T20:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-bjk-ugurcan-seed-20",
+      "userId": "seed-20",
+      "appearanceId": "a-demo-ts-bjk-1136213",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 6.5,
+        "sut_kurtarma": 7.0,
+        "hava_toplari": 7.5,
+        "bire_bir": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-17T20:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-bjk-ugurcan-seed-21",
+      "userId": "seed-21",
+      "appearanceId": "a-demo-ts-bjk-1136213",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "karar_verme": 8.5,
+        "efor": 9.0,
+        "sogukkanlilik": 9.5,
+        "takim_oyunu": 7.5,
+        "hava_toplari": 8.5,
+        "bire_bir": 9.0,
+        "alan_kontrolu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-08-17T20:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-bjk-ugurcan-seed-15",
+      "userId": "seed-15",
+      "appearanceId": "a-demo-ts-bjk-1136213",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "karar_verme": 6.5,
+        "efor": 7.0,
+        "sogukkanlilik": 7.5,
+        "sut_kurtarma": 6.0,
+        "hava_toplari": 6.5,
+        "bire_bir": 7.0,
+        "alan_kontrolu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-17T20:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-ts-bjk-ugurcan-seed-16",
+      "userId": "seed-16",
+      "appearanceId": "a-demo-ts-bjk-1136213",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0,
+        "takim_oyunu": 6.0,
+        "sut_kurtarma": 6.5,
+        "bire_bir": 7.5,
+        "alan_kontrolu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-17T20:05:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-ugurcan-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-fb-1136213",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0,
+        "takim_oyunu": 6.0,
+        "sut_kurtarma": 6.5,
+        "bire_bir": 7.5,
+        "alan_kontrolu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-ugurcan-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-fb-1136213",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 6.5,
+        "sut_kurtarma": 7.0,
+        "hava_toplari": 7.5,
+        "bire_bir": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-ugurcan-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-fb-1136213",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "karar_verme": 8.0,
+        "efor": 8.5,
+        "takim_oyunu": 7.0,
+        "sut_kurtarma": 7.5,
+        "hava_toplari": 8.0,
+        "bire_bir": 8.5,
+        "alan_kontrolu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-ugurcan-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-fb-1136213",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0,
+        "takim_oyunu": 6.0,
+        "sut_kurtarma": 6.5,
+        "bire_bir": 7.5,
+        "alan_kontrolu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-ugurcan-seed-05",
+      "userId": "seed-05",
+      "appearanceId": "a-demo-gs-fb-1136213",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 6.5,
+        "sut_kurtarma": 7.0,
+        "hava_toplari": 7.5,
+        "bire_bir": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-ugurcan-seed-09",
+      "userId": "seed-09",
+      "appearanceId": "a-demo-gs-fb-1136213",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "karar_verme": 6.0,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 5.0,
+        "sut_kurtarma": 5.5,
+        "hava_toplari": 6.0,
+        "bire_bir": 6.5,
+        "alan_kontrolu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-ugurcan-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-bjk-1136213",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "karar_verme": 6.5,
+        "efor": 7.0,
+        "sogukkanlilik": 7.5,
+        "sut_kurtarma": 6.0,
+        "hava_toplari": 6.5,
+        "bire_bir": 7.0,
+        "alan_kontrolu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-31T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-ugurcan-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-bjk-1136213",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0,
+        "takim_oyunu": 6.0,
+        "sut_kurtarma": 6.5,
+        "bire_bir": 7.5,
+        "alan_kontrolu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-31T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-ugurcan-seed-06",
+      "userId": "seed-06",
+      "appearanceId": "a-demo-gs-bjk-1136213",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "karar_verme": 6.0,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 5.0,
+        "sut_kurtarma": 5.5,
+        "hava_toplari": 6.0,
+        "bire_bir": 6.5,
+        "alan_kontrolu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-31T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-ugurcan-seed-07",
+      "userId": "seed-07",
+      "appearanceId": "a-demo-gs-bjk-1136213",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 6.5,
+        "sut_kurtarma": 7.0,
+        "hava_toplari": 7.5,
+        "bire_bir": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-31T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-ugurcan-seed-08",
+      "userId": "seed-08",
+      "appearanceId": "a-demo-gs-bjk-1136213",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0,
+        "takim_oyunu": 6.0,
+        "sut_kurtarma": 6.5,
+        "bire_bir": 7.5,
+        "alan_kontrolu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-31T21:30:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-ugurcan-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-ts-1136213",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "karar_verme": 8.0,
+        "efor": 8.5,
+        "takim_oyunu": 7.0,
+        "sut_kurtarma": 7.5,
+        "hava_toplari": 8.0,
+        "bire_bir": 8.5,
+        "alan_kontrolu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-ugurcan-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-ts-1136213",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "karar_verme": 8.5,
+        "efor": 9.0,
+        "sogukkanlilik": 9.5,
+        "takim_oyunu": 7.5,
+        "hava_toplari": 8.5,
+        "bire_bir": 9.0,
+        "alan_kontrolu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-ugurcan-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-ts-1136213",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 6.5,
+        "sut_kurtarma": 7.0,
+        "hava_toplari": 7.5,
+        "bire_bir": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-ugurcan-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-ts-1136213",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "karar_verme": 8.0,
+        "efor": 8.5,
+        "takim_oyunu": 7.0,
+        "sut_kurtarma": 7.5,
+        "hava_toplari": 8.0,
+        "bire_bir": 8.5,
+        "alan_kontrolu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-ugurcan-seed-05",
+      "userId": "seed-05",
+      "appearanceId": "a-demo-gs-ts-1136213",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 6.5,
+        "sut_kurtarma": 7.0,
+        "hava_toplari": 7.5,
+        "bire_bir": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-ugurcan-seed-19",
+      "userId": "seed-19",
+      "appearanceId": "a-demo-gs-ts-1136213",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "karar_verme": 6.5,
+        "efor": 7.0,
+        "sogukkanlilik": 7.5,
+        "sut_kurtarma": 6.0,
+        "hava_toplari": 6.5,
+        "bire_bir": 7.0,
+        "alan_kontrolu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-09-14T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-ugurcan-seed-20",
+      "userId": "seed-20",
+      "appearanceId": "a-demo-gs-ts-1136213",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "karar_verme": 6.0,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 5.0,
+        "sut_kurtarma": 5.5,
+        "hava_toplari": 6.0,
+        "bire_bir": 6.5,
+        "alan_kontrolu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3596",
+      "createdAt": "2026-09-14T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-ts-ugurcan-seed-08",
+      "userId": "seed-08",
+      "appearanceId": "a-demo-gs-ts-1136213",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "karar_verme": 8.0,
+        "efor": 8.5,
+        "takim_oyunu": 7.0,
+        "sut_kurtarma": 7.5,
+        "hava_toplari": 8.0,
+        "bire_bir": 8.5,
+        "alan_kontrolu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-14T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-sallai-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-fb-2698504",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:50:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-torreira-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-fb-2419707",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:55:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-sallai-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-fb-2698504",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": "Bek gibi durmadı; kanatta sürekli bindirdi.",
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:50:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-torreira-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-fb-2419707",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:55:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-sallai-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-fb-2698504",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:50:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-torreira-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-fb-2419707",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": "Orta sahadan çok savunma hattını toparladı.",
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:55:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-sallai-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-fb-2698504",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "hucum_katkisi": 8.5,
+        "savunma_katkisi": 9.0,
+        "topsuz_oyun": 9.5,
+        "ikili_mucadele": 7.5,
+        "efor": 8.5,
+        "sogukkanlilik": 9.0,
+        "takim_oyunu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:50:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-torreira-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-fb-2419707",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:55:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-sallai-seed-05",
+      "userId": "seed-05",
+      "appearanceId": "a-demo-gs-fb-2698504",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:50:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-torreira-seed-05",
+      "userId": "seed-05",
+      "appearanceId": "a-demo-gs-fb-2419707",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T21:55:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-sallai-seed-09",
+      "userId": "seed-09",
+      "appearanceId": "a-demo-gs-fb-2698504",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T21:50:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-torreira-seed-09",
+      "userId": "seed-09",
+      "appearanceId": "a-demo-gs-fb-2419707",
+      "genelPuan": 5.5,
+      "attributes": {
+        "teknik": 4.5,
+        "hucum_katkisi": 5.5,
+        "savunma_katkisi": 6.0,
+        "topsuz_oyun": 6.5,
+        "ikili_mucadele": 4.5,
+        "karar_verme": 5.0,
+        "efor": 5.5,
+        "takim_oyunu": 6.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T21:55:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1048397-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-fb-1048397",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1048397-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-fb-1048397",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1048397-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-fb-1048397",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1048397-seed-06",
+      "userId": "seed-06",
+      "appearanceId": "a-demo-gs-fb-1048397",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1048397-seed-08",
+      "userId": "seed-08",
+      "appearanceId": "a-demo-gs-fb-1048397",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1048397-seed-10",
+      "userId": "seed-10",
+      "appearanceId": "a-demo-gs-fb-1048397",
+      "genelPuan": 5.5,
+      "attributes": {
+        "teknik": 4.5,
+        "hucum_katkisi": 5.5,
+        "savunma_katkisi": 6.0,
+        "topsuz_oyun": 6.5,
+        "ikili_mucadele": 4.5,
+        "karar_verme": 5.0,
+        "efor": 5.5,
+        "takim_oyunu": 6.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1462850-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-fb-1462850",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1462850-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-fb-1462850",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "hucum_katkisi": 8.5,
+        "savunma_katkisi": 9.0,
+        "topsuz_oyun": 9.5,
+        "ikili_mucadele": 7.5,
+        "efor": 8.5,
+        "sogukkanlilik": 9.0,
+        "takim_oyunu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1462850-seed-05",
+      "userId": "seed-05",
+      "appearanceId": "a-demo-gs-fb-1462850",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1462850-seed-07",
+      "userId": "seed-07",
+      "appearanceId": "a-demo-gs-fb-1462850",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1462850-seed-08",
+      "userId": "seed-08",
+      "appearanceId": "a-demo-gs-fb-1462850",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-1462850-seed-11",
+      "userId": "seed-11",
+      "appearanceId": "a-demo-gs-fb-1462850",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2685640-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-fb-2685640",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2685640-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-fb-2685640",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2685640-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-fb-2685640",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2685640-seed-06",
+      "userId": "seed-06",
+      "appearanceId": "a-demo-gs-fb-2685640",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2685640-seed-07",
+      "userId": "seed-07",
+      "appearanceId": "a-demo-gs-fb-2685640",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2685640-seed-12",
+      "userId": "seed-12",
+      "appearanceId": "a-demo-gs-fb-2685640",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2823881-seed-09",
+      "userId": "seed-09",
+      "appearanceId": "a-demo-gs-fb-2823881",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2823881-seed-10",
+      "userId": "seed-10",
+      "appearanceId": "a-demo-gs-fb-2823881",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2823881-seed-11",
+      "userId": "seed-11",
+      "appearanceId": "a-demo-gs-fb-2823881",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2823881-seed-12",
+      "userId": "seed-12",
+      "appearanceId": "a-demo-gs-fb-2823881",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2823881-seed-13",
+      "userId": "seed-13",
+      "appearanceId": "a-demo-gs-fb-2823881",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-fb-2823881-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-fb-2823881",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-24T22:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-kokcu-seed-15",
+      "userId": "seed-15",
+      "appearanceId": "a-demo-gs-bjk-2217597",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-31T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-kokcu-seed-16",
+      "userId": "seed-16",
+      "appearanceId": "a-demo-gs-bjk-2217597",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-31T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-kokcu-seed-17",
+      "userId": "seed-17",
+      "appearanceId": "a-demo-gs-bjk-2217597",
+      "genelPuan": 8.5,
+      "attributes": {
+        "teknik": 7.5,
+        "pas": 8.0,
+        "hucum_katkisi": 8.5,
+        "savunma_katkisi": 9.0,
+        "topsuz_oyun": 9.5,
+        "ikili_mucadele": 7.5,
+        "efor": 8.5,
+        "sogukkanlilik": 9.0,
+        "takim_oyunu": 9.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-31T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-kokcu-seed-18",
+      "userId": "seed-18",
+      "appearanceId": "a-demo-gs-bjk-2217597",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3590",
+      "createdAt": "2026-08-31T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-kokcu-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-bjk-2217597",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-08-31T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bjk-kokcu-seed-09",
+      "userId": "seed-09",
+      "appearanceId": "a-demo-gs-bjk-2217597",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3592",
+      "createdAt": "2026-08-31T21:40:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-ada-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-bsh-2174480",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": "Kısa sürede tek net pozisyonu değerlendirdi.",
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-ada-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-bsh-2174480",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-ada-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-bsh-2174480",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-ada-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-bsh-2174480",
+      "genelPuan": 7.5,
+      "attributes": {
+        "teknik": 6.5,
+        "pas": 7.0,
+        "savunma_katkisi": 8.0,
+        "topsuz_oyun": 8.5,
+        "ikili_mucadele": 6.5,
+        "karar_verme": 7.0,
+        "efor": 7.5,
+        "sogukkanlilik": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-bsh-ada-seed-05",
+      "userId": "seed-05",
+      "appearanceId": "a-demo-gs-bsh-2174480",
+      "genelPuan": 8.0,
+      "attributes": {
+        "teknik": 7.0,
+        "pas": 7.5,
+        "hucum_katkisi": 8.0,
+        "savunma_katkisi": 8.5,
+        "ikili_mucadele": 7.0,
+        "karar_verme": 7.5,
+        "efor": 8.0,
+        "sogukkanlilik": 8.5,
+        "takim_oyunu": 9.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-21T19:20:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-unyay-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-kon-2117517",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:15:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-unyay-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-kon-2117517",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:15:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-unyay-seed-03",
+      "userId": "seed-03",
+      "appearanceId": "a-demo-gs-kon-2117517",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:15:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-unyay-seed-04",
+      "userId": "seed-04",
+      "appearanceId": "a-demo-gs-kon-2117517",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:15:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-unyay-seed-06",
+      "userId": "seed-06",
+      "appearanceId": "a-demo-gs-kon-2117517",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:15:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-batrakov-seed-01",
+      "userId": "seed-01",
+      "appearanceId": "a-demo-gs-kon-2935561",
+      "genelPuan": 7.0,
+      "attributes": {
+        "pas": 6.5,
+        "hucum_katkisi": 7.0,
+        "savunma_katkisi": 7.5,
+        "topsuz_oyun": 8.0,
+        "ikili_mucadele": 6.0,
+        "karar_verme": 6.5,
+        "sogukkanlilik": 7.5,
+        "takim_oyunu": 8.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-batrakov-seed-02",
+      "userId": "seed-02",
+      "appearanceId": "a-demo-gs-kon-2935561",
+      "genelPuan": 6.5,
+      "attributes": {
+        "teknik": 5.5,
+        "pas": 6.0,
+        "hucum_katkisi": 6.5,
+        "savunma_katkisi": 7.0,
+        "topsuz_oyun": 7.5,
+        "karar_verme": 6.0,
+        "efor": 6.5,
+        "sogukkanlilik": 7.0,
+        "takim_oyunu": 7.5
+      },
+      "juriNotu": null,
+      "supporterClubId": "3604",
+      "createdAt": "2026-09-28T19:10:00Z",
+      "editedAt": null,
+      "valid": true
+    },
+    {
+      "id": "r-gs-kon-batrakov-seed-23",
+      "userId": "seed-23",
+      "appearanceId": "a-demo-gs-kon-2935561",
+      "genelPuan": 6.0,
+      "attributes": {
+        "teknik": 5.0,
+        "pas": 5.5,
+        "hucum_katkisi": 6.0,
+        "topsuz_oyun": 7.0,
+        "ikili_mucadele": 5.0,
+        "karar_verme": 5.5,
+        "efor": 6.0,
+        "sogukkanlilik": 6.5,
+        "takim_oyunu": 7.0
+      },
+      "juriNotu": null,
+      "supporterClubId": "3600",
+      "createdAt": "2026-09-28T19:10:00Z",
+      "editedAt": null,
+      "valid": true
+    }
+  ]
+}

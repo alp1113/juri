@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "season": "2026–2027",
+    "generated_at": "2026-09-08",
+    "notes": [
+      "Presidents copied from TFF club records in app.json (scraped 2026-09-05). Appointment dates unknown, so a term starts at the season rather than inventing a start day.",
+      "Coaches from the Anadolu Ajansı 2026-27 season preview. Trabzonspor: Fatih Tekke until the club's 1 Sep 2026 statement; Hüseyin Çimşir flagged interim for the Gençlerbirliği fixture of 6 Sep 2026.",
+      "A match is assigned the coach whose spell covers kickoff. A touchline ban does not move responsibility to an assistant — that takes an explicit override.",
+      "Staff portraits: coaches from Transfermarkt trainer search, presidents from Wikidata P18. A missing portrait stays missing rather than using some other article's lead image."
+    ],
+    "coach_count": 19,
+    "president_count": 18,
+    "spell_count": 19,
+    "term_count": 18
+  },
+  "coaches": [
+    {
+      "id": "c-okan-buruk",
+      "display_name": "Okan Buruk",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/23531-1660089259.png?lm=4711",
+      "photo_file": "photos/c-okan-buruk.png"
+    },
+    {
+      "id": "c-vincenzo-italiano",
+      "display_name": "Vincenzo Italiano",
+      "nationality": "İtalya",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/47288-1788353926.jpg?lm=4711",
+      "photo_file": "photos/c-vincenzo-italiano.jpg"
+    },
+    {
+      "id": "c-metin-diyadin",
+      "display_name": "Metin Diyadin",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/5199-1766412972.jpg?lm=4711",
+      "photo_file": "photos/c-metin-diyadin.jpg"
+    },
+    {
+      "id": "c-ismail-kartal",
+      "display_name": "İsmail Kartal",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/6366-1696013891.png?lm=4711",
+      "photo_file": "photos/c-ismail-kartal.png"
+    },
+    {
+      "id": "c-besnik-hasi",
+      "display_name": "Besnik Hasi",
+      "nationality": "Arnavutluk",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/6408-1472031405.jpg?lm=4711",
+      "photo_file": "photos/c-besnik-hasi.jpg"
+    },
+    {
+      "id": "c-selcuk-inan",
+      "display_name": "Selçuk İnan",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/83535-1751676312.png?lm=4711",
+      "photo_file": "photos/c-selcuk-inan.png"
+    },
+    {
+      "id": "c-recep-ucar",
+      "display_name": "Recep Uçar",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/22369-1705402717.jpg?lm=4711",
+      "photo_file": "photos/c-recep-ucar.jpg"
+    },
+    {
+      "id": "c-emre-belozoglu",
+      "display_name": "Emre Belözoğlu",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/82796-1757670593.jpg?lm=4711",
+      "photo_file": "photos/c-emre-belozoglu.jpg"
+    },
+    {
+      "id": "c-nuri-sahin",
+      "display_name": "Nuri Şahin",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/96813-1718279923.jpg?lm=4711",
+      "photo_file": "photos/c-nuri-sahin.jpg"
+    },
+    {
+      "id": "c-thorsten-fink",
+      "display_name": "Thorsten Fink",
+      "nationality": "Almanya",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/3770-1771344831.png?lm=4711",
+      "photo_file": "photos/c-thorsten-fink.png"
+    },
+    {
+      "id": "c-fatih-tekke",
+      "display_name": "Fatih Tekke",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/29046-1744382082.jpg?lm=4711",
+      "photo_file": "photos/c-fatih-tekke.jpg"
+    },
+    {
+      "id": "c-huseyin-cimsir",
+      "display_name": "Hüseyin Çimşir",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/29119-1788537043.jpg?lm=4711",
+      "photo_file": "photos/c-huseyin-cimsir.jpg"
+    },
+    {
+      "id": "c-joao-pereira",
+      "display_name": "João Pereira",
+      "nationality": "Portekiz",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/93770-1743415038.jpg?lm=4711",
+      "photo_file": "photos/c-joao-pereira.jpg"
+    },
+    {
+      "id": "c-mirel-radoi",
+      "display_name": "Mirel Rădoi",
+      "nationality": "Romanya",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/40857-1776865687.jpg?lm=4711",
+      "photo_file": "photos/c-mirel-radoi.jpg"
+    },
+    {
+      "id": "c-serkan-ozbalta",
+      "display_name": "Serkan Özbalta",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/59420-1771454778.png?lm=4711",
+      "photo_file": "photos/c-serkan-ozbalta.png"
+    },
+    {
+      "id": "c-ozhan-pulat",
+      "display_name": "Özhan Pulat",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/71537-1714988760.jpg?lm=4711",
+      "photo_file": "photos/c-ozhan-pulat.jpg"
+    },
+    {
+      "id": "c-stanimir-stoilov",
+      "display_name": "Stanimir Stoilov",
+      "nationality": "Bulgaristan",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/2934-1715433152.png?lm=4711",
+      "photo_file": "photos/c-stanimir-stoilov.png"
+    },
+    {
+      "id": "c-ugur-ucar",
+      "display_name": "Uğur Uçar",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/114189-1730214751.jpg?lm=4711",
+      "photo_file": "photos/c-ugur-ucar.jpg"
+    },
+    {
+      "id": "c-ilhan-palut",
+      "display_name": "İlhan Palut",
+      "nationality": "Türkiye",
+      "photo_url": "https://img.a.transfermarkt.technology/portrait/big/41916-1729152468.jpg?lm=4711",
+      "photo_file": "photos/c-ilhan-palut.jpg"
+    }
+  ],
+  "presidents": [
+    {
+      "id": "p-dursun-aydin-ozbek",
+      "display_name": "Dursun Aydın Özbek",
+      "photo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Dursun_Ozbek_in_2023.jpg/500px-Dursun_Ozbek_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "photo_file": "photos/p-dursun-aydin-ozbek.jpg"
+    },
+    {
+      "id": "p-serdal-adali",
+      "display_name": "Serdal Adalı",
+      "photo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Serdal_Adal%C4%B1_20241230_%285%29_%28cropped%29.jpg/500px-Serdal_Adal%C4%B1_20241230_%285%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "photo_file": "photos/p-serdal-adali.jpg"
+    },
+    {
+      "id": "p-haydar-arda-cakmak",
+      "display_name": "Haydar Arda Çakmak",
+      "photo_file": "photos/p-haydar-arda-cakmak.jpg"
+    },
+    {
+      "id": "p-aziz-yildirim",
+      "display_name": "Aziz Yıldırım",
+      "photo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Aziz_Yildirim2_%28cropped%29.jpg/500px-Aziz_Yildirim2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "photo_file": "photos/p-aziz-yildirim.jpg"
+    },
+    {
+      "id": "p-nahit-eren",
+      "display_name": "Nahit Eren",
+      "photo_file": "photos/p-nahit-eren.jpg"
+    },
+    {
+      "id": "p-recep-durul",
+      "display_name": "Recep Durul",
+      "photo_file": "photos/p-recep-durul.jpg"
+    },
+    {
+      "id": "p-ali-zeki-saruhan",
+      "display_name": "Ali Zeki Saruhan",
+      "photo_file": "photos/p-ali-zeki-saruhan.jpg"
+    },
+    {
+      "id": "p-davut-disli",
+      "display_name": "Davut Dişli",
+      "photo_file": "photos/p-davut-disli.jpg"
+    },
+    {
+      "id": "p-goksel-gumusdag",
+      "display_name": "Göksel Gümüşdağ",
+      "photo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/G%C3%B6ksel_G%C3%BCm%C3%BC%C5%9Fda%C4%9F.jpg/500px-G%C3%B6ksel_G%C3%BCm%C3%BC%C5%9Fda%C4%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "photo_file": "photos/p-goksel-gumusdag.jpg"
+    },
+    {
+      "id": "p-yuksel-yildirim",
+      "display_name": "Yüksel Yıldırım",
+      "photo_file": "photos/p-yuksel-yildirim.jpg"
+    },
+    {
+      "id": "p-ertugrul-dogan",
+      "display_name": "Ertuğrul Doğan",
+      "photo_file": "photos/p-ertugrul-dogan.jpg"
+    },
+    {
+      "id": "p-hasan-cavusoglu",
+      "display_name": "Hasan Çavuşoğlu",
+      "photo_file": "photos/p-hasan-cavusoglu.jpg"
+    },
+    {
+      "id": "p-memik-yilmaz",
+      "display_name": "Memik Yılmaz",
+      "photo_file": "photos/p-memik-yilmaz.jpg"
+    },
+    {
+      "id": "p-ahmet-dal",
+      "display_name": "Ahmet Dal",
+      "photo_file": "photos/p-ahmet-dal.jpg"
+    },
+    {
+      "id": "p-yusuf-oksuzomer",
+      "display_name": "Yusuf Öksüzömer"
+    },
+    {
+      "id": "p-rasmus-froekiaer-ankersen",
+      "display_name": "Rasmus Froekıaer Ankersen",
+      "photo_file": "photos/p-rasmus-froekiaer-ankersen.jpg"
+    },
+    {
+      "id": "p-baran-korkmazoglu",
+      "display_name": "Baran Korkmazoğlu",
+      "photo_file": "photos/p-baran-korkmazoglu.jpg"
+    },
+    {
+      "id": "p-omer-atiker",
+      "display_name": "Ömer Atiker",
+      "photo_file": "photos/p-omer-atiker.jpg"
+    }
+  ],
+  "coach_spells": [
+    {
+      "id": "cs-3604-c-okan-buruk",
+      "coach_id": "c-okan-buruk",
+      "club_id": "3604",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3590-c-vincenzo-italiano",
+      "coach_id": "c-vincenzo-italiano",
+      "club_id": "3590",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3606-c-metin-diyadin",
+      "coach_id": "c-metin-diyadin",
+      "club_id": "3606",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3592-c-ismail-kartal",
+      "coach_id": "c-ismail-kartal",
+      "club_id": "3592",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3678-c-besnik-hasi",
+      "coach_id": "c-besnik-hasi",
+      "club_id": "3678",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-132-c-selcuk-inan",
+      "coach_id": "c-selcuk-inan",
+      "club_id": "132",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3631-c-recep-ucar",
+      "coach_id": "c-recep-ucar",
+      "club_id": "3631",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-39-c-emre-belozoglu",
+      "coach_id": "c-emre-belozoglu",
+      "club_id": "39",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3665-c-nuri-sahin",
+      "coach_id": "c-nuri-sahin",
+      "club_id": "3665",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3597-c-thorsten-fink",
+      "coach_id": "c-thorsten-fink",
+      "club_id": "3597",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3596-c-fatih-tekke",
+      "coach_id": "c-fatih-tekke",
+      "club_id": "3596",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": "2026-09-01T17:21:00+03:00",
+      "interim": false
+    },
+    {
+      "id": "cs-51-c-joao-pereira",
+      "coach_id": "c-joao-pereira",
+      "club_id": "51",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3672-c-mirel-radoi",
+      "coach_id": "c-mirel-radoi",
+      "club_id": "3672",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-4123-c-serkan-ozbalta",
+      "coach_id": "c-serkan-ozbalta",
+      "club_id": "4123",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3610-c-ozhan-pulat",
+      "coach_id": "c-ozhan-pulat",
+      "club_id": "3610",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3688-c-stanimir-stoilov",
+      "coach_id": "c-stanimir-stoilov",
+      "club_id": "3688",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3199-c-ugur-ucar",
+      "coach_id": "c-ugur-ucar",
+      "club_id": "3199",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3600-c-ilhan-palut",
+      "coach_id": "c-ilhan-palut",
+      "club_id": "3600",
+      "start": "2026-07-01T00:00:00+03:00",
+      "end": null,
+      "interim": false
+    },
+    {
+      "id": "cs-3596-c-huseyin-cimsir",
+      "coach_id": "c-huseyin-cimsir",
+      "club_id": "3596",
+      "start": "2026-09-01T17:21:00+03:00",
+      "end": null,
+      "interim": true
+    }
+  ],
+  "president_terms": [
+    {
+      "id": "pt-3604-p-dursun-aydin-ozbek-2026-2027",
+      "president_id": "p-dursun-aydin-ozbek",
+      "club_id": "3604",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3590-p-serdal-adali-2026-2027",
+      "president_id": "p-serdal-adali",
+      "club_id": "3590",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3606-p-haydar-arda-cakmak-2026-2027",
+      "president_id": "p-haydar-arda-cakmak",
+      "club_id": "3606",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3592-p-aziz-yildirim-2026-2027",
+      "president_id": "p-aziz-yildirim",
+      "club_id": "3592",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3678-p-nahit-eren-2026-2027",
+      "president_id": "p-nahit-eren",
+      "club_id": "3678",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-132-p-recep-durul-2026-2027",
+      "president_id": "p-recep-durul",
+      "club_id": "132",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3631-p-ali-zeki-saruhan-2026-2027",
+      "president_id": "p-ali-zeki-saruhan",
+      "club_id": "3631",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-39-p-davut-disli-2026-2027",
+      "president_id": "p-davut-disli",
+      "club_id": "39",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3665-p-goksel-gumusdag-2026-2027",
+      "president_id": "p-goksel-gumusdag",
+      "club_id": "3665",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3597-p-yuksel-yildirim-2026-2027",
+      "president_id": "p-yuksel-yildirim",
+      "club_id": "3597",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3596-p-ertugrul-dogan-2026-2027",
+      "president_id": "p-ertugrul-dogan",
+      "club_id": "3596",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-51-p-hasan-cavusoglu-2026-2027",
+      "president_id": "p-hasan-cavusoglu",
+      "club_id": "51",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3672-p-memik-yilmaz-2026-2027",
+      "president_id": "p-memik-yilmaz",
+      "club_id": "3672",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-4123-p-ahmet-dal-2026-2027",
+      "president_id": "p-ahmet-dal",
+      "club_id": "4123",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3610-p-yusuf-oksuzomer-2026-2027",
+      "president_id": "p-yusuf-oksuzomer",
+      "club_id": "3610",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3688-p-rasmus-froekiaer-ankersen-2026-2027",
+      "president_id": "p-rasmus-froekiaer-ankersen",
+      "club_id": "3688",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3199-p-baran-korkmazoglu-2026-2027",
+      "president_id": "p-baran-korkmazoglu",
+      "club_id": "3199",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    },
+    {
+      "id": "pt-3600-p-omer-atiker-2026-2027",
+      "president_id": "p-omer-atiker",
+      "club_id": "3600",
+      "season": "2026–2027",
+      "start": "2026-08-01T00:00:00+03:00",
+      "end": null
+    }
+  ],
+  "coach_assignment_overrides": []
+}
